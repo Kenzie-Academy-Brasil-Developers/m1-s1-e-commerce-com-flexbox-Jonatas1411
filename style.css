@@ -73,9 +73,6 @@
 .card{
   width: 24%;
   margin-bottom: 16px;
-  max-width: 1200px;
-  
-  
 }
 
 .card a {
@@ -98,8 +95,6 @@
 .menu-link-button:hover{
   background-color: darkblue;
 }
-
-
-
-
-  
+.container {
+  max-width: 1200px;
+}
