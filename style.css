@@ -56,12 +56,14 @@
       flex-wrap: wrap;
       margin-left: 10%;
       margin-top: 20px;
+      max-width: 1200px;
       
 }
 
 .card img{
   width: 200px;
   height: 150px;
+  
   
     
 }
@@ -94,7 +96,4 @@
 
 .menu-link-button:hover{
   background-color: darkblue;
-}
-.container {
-  max-width: 1200px;
 }
